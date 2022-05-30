@@ -14,14 +14,14 @@
 
 
 #menu {
-  width: 269px;
-  height: 100%;
-  border-right:1px solid #ccc;
+  width: 263px;
+  height: 120%;
+  border-right:1px solid rgb(204, 204, 204);
   font-family: "Lato";
   font-weight: normal;
   font-size: 17px;
   min-height: 500px;
-  background-color: rgba(30,30,30,0.7);
+  background-color: rgba(213, 121, 121, 0.7);
   box-shadow: 3px 0px 5px rgba(0,0,0,.3);
   position:absolute;
   overflow:auto;
@@ -48,7 +48,7 @@
 
 #menu .menu-button > a:hover {
   color:#000!important;
-  background-color:#FFFFFF!important;
+  background-color:#922323!important;
   text-decoration: none;
 }
 
